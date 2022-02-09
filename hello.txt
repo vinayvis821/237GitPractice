@@ -1,1 +1,3 @@
-Hello!!!!!!!
+Hello Bruh this is a CHANGE
+
+This is a test of a merge conflict so this shuold restult in an error
